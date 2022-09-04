@@ -13,3 +13,5 @@ main.py does:
 2. Collect the invoice(fapiao) using a temperary directory
 3. Archive emails with legit invoice (If target folder name accurate in credentials.conf)
 4. Plots a summary
+
+**Note. It is important to rename credential-sample.conf to credential.conf. And don't use quotes in .conf.

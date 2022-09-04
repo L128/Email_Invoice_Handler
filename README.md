@@ -1,7 +1,7 @@
 # Email_Invoice_Handler
 Using IMAP to receive emails, pdfplummer to check the invoices in the attachment, SMTP to send them to my accountant.
 
-Using a lot of code from @Paramiao, https://github.com/paramiao/pyMail
+Using a lot of code from @Paramiao, https://github.com/paramiao/pyMail.
 Added support for Chinese and updated old APIs.
 This pyMail.py is sufficient for basic email scripting.
 
